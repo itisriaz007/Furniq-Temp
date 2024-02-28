@@ -1,0 +1,32 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Literata;
+}
+
+.container{
+    margin-left: 152px;
+    margin-right: 152px;
+}
+
+.card-wrapper{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 80px;
+    gap: 30px;
+}
+
+.category-card{
+    justify-content: center;
+    text-align: center;
+    width: fit-content;
+    height: fit-content;
+    padding-left: 56px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-right: 56px;
+    background-color: #F8F9F9;
+}
+
+
